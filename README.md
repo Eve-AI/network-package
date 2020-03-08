@@ -32,3 +32,4 @@ Based on the package https://github.com/sivel/speedtest-cli.
 ...
 ```
 # network-package
+# trend-package
